@@ -1,0 +1,8 @@
+export const GET_ALL_STUDENT = "GET_ALL_STUDENT"
+export const GET_ALL_STUDENT_ERROR = "GET_ALL_STUDENT_ERROR"
+
+export const POST_STUDENT = "POST_STUDENT"
+
+export const DELETE_DATA = "DELETE_DATA"
+
+export const UPDATE_DATA = "UPDATE_DATA"
